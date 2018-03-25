@@ -1,0 +1,25 @@
+.idea/
+classes/
+*.iml
+*.iws
+.DS_Store
+.RData
+.Rhistory
+target/
+map/
+*.pdf
+*.tmp
+*.log
+*.xz
+
+### Gradle ###
+.gradle
+build/
+settings.gradle
+generated/
+generated_tests/
+/bin/
+out/
+generated_proto/
+/src/test/resources/logback-test.xml
+*.json
